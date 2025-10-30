@@ -17,51 +17,34 @@
 
 </div>
 
-## 💻 Tech Stack
+<!-- Tech Stack -->
 <div align="center">
-    <table style="border-collapse: separate; border-spacing: 10px; background: transparent; margin: 0 auto;">
-        <tr>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <strong style="color: #f0f0f0;">Core</strong>
-            </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">Python</span>
-            </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">Java</span>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <strong style="color: #f0f0f0;">Frontend</strong>
-            </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">Tailwind</span>
-            </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">Bootstrap</span>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <strong style="color: #f0f0f0;">Database</strong>
-            </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">MySQL</span>
-            </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">MongoDB</span>
-            </td>
-        </tr>
-    </table>
-</div>
+  
+## 💻 Tech Stack ⚡
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
+</div>
 ## 📊 GitHub Analytics
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayish-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
