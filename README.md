@@ -1,8 +1,17 @@
-# 🚀 Ayish's Tech Universe
+<!-- 🌌 Ayish's Tech Universe -->
+## 🚀 Ayish's Tech Universe  
 
 <div align="center">
-    <!-- 🐍 GitHub Contribution Snake -->
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <h3>📊 My GitHub Contributions (2024–2025)</h3>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayish-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Ayish%27s%20GitHub%20Contributions%20(2024-2025)&from=2024-01-01&to=2025-12-31"
+    alt="Ayish Shaikh's GitHub Contribution Graph"
+    width="100%"
+    style="border-radius: 15px; box-shadow: 0 0 25px #00FFAA;"
+  />
+</div>
+
 
    <!-- 🌌 GitHub Contributions (2024–2025) -->
 <div align="center" style="margin-top: 30px;">
