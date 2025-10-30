@@ -10,10 +10,10 @@
 <div align="center">
     <a href="https://discord.gg/fxwCt89PSn"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px; border-radius: 8px;"/></a>
     <a href="https://www.instagram.com/drinks_blood/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 8px;"/></a>
-    <a href="https://www.linkedin.com/in/ayish-shaikh-5ab441321/" target="_blank">
-  <img align="center" alt="LinkedIn" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+   <a href="https://www.linkedin.com/in/ayish-shaikh-5ab441321/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayish%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 
 </div>
 
