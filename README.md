@@ -1,7 +1,11 @@
-# 🚀 Ayish Shaikh's Tech Universe
+# 🚀 Ayish's Tech Universe
 
 <div align="center">
+    <!-- 🐍 GitHub Contribution Snake -->
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+    <!-- 📊 GitHub Contributions -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayish-Shaikh&theme=react-dark&hide_border=true&area=true" width="100%" alt="Ayish Shaikh's Contribution Graph"/>
 </div>
 
 ## 🌐 Connect With Me
@@ -14,42 +18,40 @@
 <div align="center">
     <table style="border-collapse: separate; border-spacing: 10px; background: transparent; margin: 0 auto;">
         <tr>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <strong style="color: #f0f0f0;">Core</strong>
             </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Python</span>
             </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Java</span>
             </td>
         </tr>
-
         <tr>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <strong style="color: #f0f0f0;">Frontend</strong>
             </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Tailwind</span>
             </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Bootstrap</span>
             </td>
         </tr>
-
         <tr>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <strong style="color: #f0f0f0;">Database</strong>
             </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">MySQL</span>
             </td>
-            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px;">
                 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">MongoDB</span>
             </td>
@@ -59,20 +61,17 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayish-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" style="margin: 10px; border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 5px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayish-Shaikh&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="180" style="margin: 10px; border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 5px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayish-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayish-Shaikh&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-    <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayish-Shaikh&theme=radical&hide_border=true" alt="GitHub Streak" style="margin: 20px 0; border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 5px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
-    </div>
-
-    <img src="https://komarev.com/ghpvc/?username=Ayish-Shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views" style="margin-top: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(139, 92, 246, 0.5);"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayish-Shaikh&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://komarev.com/ghpvc/?username=Ayish-Shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-    <i style="color: #d8b4fe; text-shadow: 0 0 5px #a855f7;">⭐ Star my repositories if you find them useful! ⭐</i>
+    <i style="color: #d8b4fe;">⭐ Star my repositories if you find them useful! ⭐</i>
 </div>
