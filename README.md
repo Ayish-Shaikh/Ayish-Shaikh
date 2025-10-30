@@ -4,16 +4,10 @@
 <div align="center">
   <h3>📊 My GitHub Contributions (2024–2025)</h3>
 
-  <img 
-    
-    ![GitHub Snake Light](https://github.com/Ayish-Shaikh/Ayish-Shaikh/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-    ![GitHub Snake Dark](https://github.com/Ayish-Shaikh/Ayish-Shaikh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  <!-- 🐍 GitHub Snake Animation -->
+![GitHub Snake Light](https://github.com/Ayish-Shaikh/Ayish-Shaikh/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Ayish-Shaikh/Ayish-Shaikh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-    alt="Ayish Shaikh's GitHub Contribution Graph"
-    width="100%"
-    style="border-radius: 15px; box-shadow: 0 0 25px #00FFAA;"
-  />
-</div>
 
 
    <!-- 🌌 GitHub Contributions (2024–2025) -->
