@@ -47,8 +47,8 @@
 </div>
 ## 📊 GitHub Analytics
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayish-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayish-Shaikh&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="180" />
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayish-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayish-Shaikh&theme=tokyonight&hide_border=true" height="170"/> </p>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayish-Shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 </div>
 
 <div align="center">
