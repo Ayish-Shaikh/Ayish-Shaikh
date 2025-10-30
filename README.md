@@ -5,15 +5,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayish-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Ayish%27s%20Contributions%20&from=2024-01-01&to=2025-12-31" alt="Ayish's GitHub Contribution Graph"/>
 
 
-
-## 🌐 Connect With Me
 <div align="center">
-    <a href="https://discord.gg/fxwCt89PSn"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px; border-radius: 8px;"/></a>
-    <a href="https://www.instagram.com/drinks_blood/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 8px;"/></a>
-   <a href="https://www.linkedin.com/in/ayish-shaikh-5ab441321/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayish%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 🌐 Connect With Me
+<a href="https://discord.gg/fxwCt89PSn"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px; border-radius: 8px;"/></a>
+<a href="https://www.instagram.com/drinks_blood/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 8px;"/></a>
+<a href="https://www.linkedin.com/in/ayish-shaikh-5ab441321/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ayish%20Shaikh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 </div>
 
@@ -45,10 +43,11 @@
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
 </div>
-## 📊 GitHub Analytics
+
 <div align="center">
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayish-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayish-Shaikh&theme=tokyonight&hide_border=true" height="170"/> </p>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayish-Shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<h2 align="center">📊 GitHub Analytics ⚡</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayish-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayish-Shaikh&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayish-Shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 </div>
 
 <div align="center">
