@@ -6,7 +6,7 @@
 
 
 <div align="center">
-## 🌐 Connect With Me
+<h2 align="center">## 🌐 Connect With Me</h2>
 <a href="https://discord.gg/fxwCt89PSn"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px; border-radius: 8px;"/></a>
 <a href="https://www.instagram.com/drinks_blood/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 8px;"/></a>
 <a href="https://www.linkedin.com/in/ayish-shaikh-5ab441321/" target="_blank">
