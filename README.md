@@ -57,7 +57,6 @@
 
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Ayish-Shaikh/Ayish-Shaikh/output/github-contribution-grid-snake-dark.svg" /> </p>
 ---
 
 <div align="center">
