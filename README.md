@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayish-Shaikh&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayish-Shaikh&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
     <img src="https://komarev.com/ghpvc/?username=Ayish-Shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
