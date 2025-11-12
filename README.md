@@ -60,5 +60,5 @@
 ---
 
 <div align="center">
-    <i style="color: #d8b4fe;">⭐ Star my repositories if you find them useful!.. ⭐</i>
+    <i style="color: #d8b4fe;">⭐ Star my repositories if you find them useful!⭐</i>
 </div>
