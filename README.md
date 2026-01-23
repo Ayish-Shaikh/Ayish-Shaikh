@@ -2,7 +2,7 @@
 
 
 <!-- 🌌 GitHub Contributions (2024–2025) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayish-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Ayish%27s%20Contributions%20&from=2025-01-01&to=2026-12-31" alt="Ayish's GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayish-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Ayish%27s%20Contributions%20&from=2024-01-01&to=2026-12-31" alt="Ayish's GitHub Contribution Graph"/>
 
 
 <div align="center">
