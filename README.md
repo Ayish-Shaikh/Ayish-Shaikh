@@ -56,16 +56,16 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayish-Shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 </div>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayish-Shaikh&theme=transparent"/>
 
 <img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=zues&font=default&quoteType=random&bgColor=black"/>
 
 ![](https://github-trophies.vercel.app/?username=Mayur-Pagote)
 
-<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+<img src="https://count.getloli.com/get/@Ayish-Shaikh?theme=rule34"/>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mayur-Pagote&utm_content=line">
-      <img src="https://render.gitanimals.org/lines/Mayur-Pagote" width="600" height="120"/></a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Ayish-Shaikh&utm_content=line">
+      <img src="https://render.gitanimals.org/lines/Ayish-Shaikh" width="600" height="120"/></a>
 
 ---
 
