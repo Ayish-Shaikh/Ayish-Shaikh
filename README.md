@@ -49,15 +49,14 @@
 
 <div align="center">
 <h2 align="center">📊 GitHub Analytics ⚡</h2>
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true)
+  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayish-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayish-Shaikh&theme=tokyonight&hide_border=true" height="170"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayish-Shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 </div>
 
-<div align="center">
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayish-Shaikh&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-    <img src="https://komarev.com/ghpvc/?username=Ayish-Shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
-
+<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
 
 
 ---
