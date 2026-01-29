@@ -50,7 +50,7 @@
 <div align="center">
 <h2 align="center">📊 GitHub Analytics ⚡</h2>
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayish-SHaikh&theme=transparent&hide_border=true)
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayish-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayish-Shaikh&theme=tokyonight&hide_border=true" height="170"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayish-Shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
@@ -60,7 +60,7 @@
 
 <img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=zues&font=default&quoteType=random&bgColor=black"/>
 
-![](https://github-trophies.vercel.app/?username=Mayur-Pagote)
+![](https://github-trophies.vercel.app/?username=Ayish-Shaikh)
 
 <img src="https://count.getloli.com/get/@Ayish-Shaikh?theme=rule34"/>
 
